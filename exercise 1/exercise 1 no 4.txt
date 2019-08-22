@@ -1,0 +1,7 @@
+START
+FOR murid = 1; murid < 41 ; murid++;
+IF kuku == 'bersih';
+DO 'Dipuji';
+ELSE
+DO 'Dihukum';
+END

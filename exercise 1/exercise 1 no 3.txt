@@ -1,0 +1,5 @@
+START
+INPUT baju;
+FOR baju = 0; baju <= 20; baju++; // 20baju
+DO nyalakan mesin cuci;
+END
